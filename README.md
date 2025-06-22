@@ -11,6 +11,18 @@ Using **Python** and **Jupyter Notebooks**, I focused on original tweets that in
 
 ---
 
+## 📦 Files in This Repository
+
+- **`wrangle_act.ipynb`** – The main notebook where data gathering, cleaning, and wrangling are performed  
+- **`Insights_report.html`** – Exported HTML version of the final insights for easy viewing without running code  
+- **`twitter_archive_enhanced.csv`** – Dataset containing basic tweet data from @dog_rates  
+- **`image_predictions.tsv`** – File containing image classification results for each tweet image  
+- **`tweet_json.txt`** – Extracted tweet metadata including retweet and favorite counts
+- **`master_dataset.csv`** – File containing merged data of the 3 cleaned datasets
+- **`wrangle_report.html` - Exported HTML version of the wrangling process for easy viewing without running code
+  
+---
+
 ## 📂 Data Sources
 
 - **Twitter Archive** (`twitter_archive_enhanced.csv`):  
