@@ -19,7 +19,7 @@ Using **Python** and **Jupyter Notebooks**, I focused on original tweets that in
 - **`image_predictions.tsv`** – File containing image classification results for each tweet image  
 - **`tweet_json.txt`** – Extracted tweet metadata including retweet and favorite counts
 - **`master_dataset.csv`** – File containing merged data of the 3 cleaned datasets
-- **`wrangle_report.html` - Exported HTML version of the wrangling process for easy viewing without running code
+- **`wrangle_report.html`** – Exported HTML version of the wrangling process for easy viewing without running code
   
 ---
 
