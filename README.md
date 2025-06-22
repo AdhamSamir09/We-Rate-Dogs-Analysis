@@ -5,7 +5,7 @@
 
 This project was developed as part of the **Level 3 Data Science & AI** course in the **Digital Egypt Cubs Initiative (DECI)**, organized by the **Ministry of Communication and Telecommunications**.
 
-In this analysis, I gathered, wrangled, and examined data from three sources related to the Twitter account [**@dog_rates**](https://twitter.com/dog_rates) — a popular page known for rating dogs in funny posts.
+In this analysis, I gathered, wrangled, and examined data from three sources related to the Twitter (currently X) account [**@dog_rates**](https://twitter.com/dog_rates) — a popular page known for rating dogs in funny posts.
 
 Using **Python** and **Jupyter Notebooks**, I focused on original tweets that included images to extract valuable insights about **dog ratings**, **user engagement**, and **breed popularity**.
 
